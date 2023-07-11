@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> 홈2 입니다.</h1>
+<h1> 홈2 입니다 .</h1>
 점심먹고싶어요.
 </body>
 </html>
